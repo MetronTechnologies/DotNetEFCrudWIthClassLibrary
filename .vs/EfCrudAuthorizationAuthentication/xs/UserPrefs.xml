@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{1D27C5A3-D353-491F-AE09-BC9AA7FB4054}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EfCrudAuthorizationAuthentication PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.TestEntities FirstBuild="True" />
+</Properties>
